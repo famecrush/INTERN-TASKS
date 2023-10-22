@@ -8,6 +8,6 @@ This is a Python script that allows you to check the strength of passwords. It u
 3. It shows that the password is most commonly used password or not which is easy to break or guess.
 
 # REQUIREMENT
-1. PYTHON 3.X
-2. RE LIBRARY
-3. MATH LIBRARY
+1. Python 3.x
+2. re library
+3. math library
