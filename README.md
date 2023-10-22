@@ -11,3 +11,6 @@ This is a Python script that allows you to check the strength of passwords. It u
 1. Python 3.x
 2. re library
 3. math library
+
+# CONTACT
+My LinkedIn :- https://www.linkedin.com/in/mahipal-choudhary-b8181823a/
