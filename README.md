@@ -11,12 +11,3 @@ This is a Python script that allows you to check the strength of passwords. It u
 1. PYTHON 3.X
 2. RE LIBRARY
 3. MATH LIBRARY
-
-Clone the repository or download the script file:
-git clone https://github.com/famecrush/PASSWORD-STRENGTH-TESTER.git
-cd Password-Strength-tester
-Install the re and math library by running the following in your terminal:
-pip install re
-pip install math
-Run the script using:
-python password-strength-tester.py.
