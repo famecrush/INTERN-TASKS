@@ -1,4 +1,4 @@
-# INTERN-TASKS
+# PASSWORD-STRENGTH-TESTER
 
 This is a Python script that allows you to check the strength of passwords. It uses the re and math library.
 
